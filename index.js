@@ -18,5 +18,5 @@ app.get("/url", (req, res, next) => {
 });
 
 app.get("/", (req, res, next) => {
-  res.json(["Hi","Bu","From","ViC"]);
+  res.json(["Hi","Viccccc","From","ViC"]);
 });
